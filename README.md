@@ -1,13 +1,13 @@
-    Sistema de Cadastro e Listagem de Produtos
+# Sistema de Cadastro e Listagem de Produtos
 
-Descrição:
+# Descrição
 Aplicação React para cadastro, edição, visualização e exclusão de produtos. Utiliza Local Storage para persistência dos dados.
 
-Tecnologias:
+# Tecnologias
 React
 TypeScript
 Font Awesome
 
-Execução:
+# Execução
 npm install
 npm run dev
